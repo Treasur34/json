@@ -5,14 +5,14 @@
       "adi": "Soner",
       "soyadi": "Çapoğlu",
       "email": "sonercapoglu@galatasaray.net"
-      "color": "red"
+      "renk": "red"
     },
      {
       "kullanicinum": "1",
       "adi": "Soner",
       "soyadi": "Çapoğlu",
       "email": "sonercapoglu@galatasaray.net"
-      "color": "blue"
+      "renk": "blue"
     }
   ]
 }
