@@ -4,15 +4,15 @@
       "kullanicinum": "0",
       "adi": "Soner",
       "soyadi": "Çapoğlu",
-      "email": "sonercapoglu@galatasaray.net"
-      "renk": "kirmizi"
+      "email": "sonercapoglu@galatasaray.net",
+      "renk": "kirmizi",
     },
      {
       "kullanicinum": "1",
       "adi": "Caner",
       "soyadi": "Ataş",
-      "email": "caner@dofrobotics.com"
-      "renk": "mavi"
+      "email": "caner@dofrobotics.com",
+      "renk": "mavi",
     }
   ]
 }
